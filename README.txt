@@ -1,3 +1,17 @@
+About:
+  This is an archive of (most) projects once shared on CodeTorch. This archive was last updated: 12/30/25 at 10:006 PM EST.
+All projects were collected using the public CodeTorch API. All data collected was public information obtained by myself. I am @speedychuck on CodeTorch
+You may request data deletion of your own data.
+This is supposed to be more of a hobby project, I will not take this too seriously.
+
+Important Info:
+  Each txt file is in JSON format. It includes a batch of projects. I started out having each batch be 100 files each but that has since changed. Thus, the number of projects in each batch isn't reliable.
+Not every project is going to be here obviously, though that is the goal. However,some projects that I have archived are not listed here (yet) because the file size for a batch of projects was bigger than 25MB (Github's max file size per individual file).
+
+
+
+License:
+
 This repository is an archival mirror of projects that were publicly available on CodeTorch
 at the time of collection.
 
